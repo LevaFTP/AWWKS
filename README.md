@@ -1,3 +1,3 @@
 # AWWKS
-Aplikacja wspomagająca wybór kierunku studiów
+Aplikacja wspomagająca wybór kierunku studiów<br/>
 The program I wrote for my thesis. C# + WPF + GIMP
