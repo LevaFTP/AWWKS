@@ -1,4 +1,8 @@
 # AWWKS
-Aplikacja wspomagająca wybór kierunku studiów<br/>
-The program I wrote for my thesis. C# + WPF + GIMPБ<br/>
+Application to help you choose your major<br/>
+Written in C# + WPF + GIMP<br/>
 Visual Design: "Presentation.pdf"
+---
+Aplikacja pomagająca wybrać kierunek studiów<br/>
+Napisana w C# + WPF + GIMP<br/>
+Projektowanie wizualne: "Presentation.pdf"
