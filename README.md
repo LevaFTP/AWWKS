@@ -7,3 +7,5 @@ Visual Design: "Presentation.pdf"
 Aplikacja pomagająca wybrać kierunek studiów<br/>
 Napisana w C# + WPF + GIMP<br/>
 Projektowanie wizualne: "Presentation.pdf"
+---
+Artem Levchenko
